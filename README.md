@@ -24,12 +24,9 @@ in MATLAB with dependencies:
 ## Repository Structure
 ```
 NeuralSurpriseInSomesthesis
-├── figures: Store plots
-├── report: Write up and presentations
-├── results: Surprise regressors and modeling results
 ├── models: The compared learning models
-    +- seq_gen.py: Samples sequence according to graphical model
-    +- seq_analysis.py: Analyze the sampled sequence - get empirical stats
+    +- cat_dir.py: Dirichlet-Categorical model
+    +- hmm.py: Hidden Markov model
 ├── sbl_agents: Different sequential bayesian learning agents
     +- sbl_cat_dir: Categorical-Dirichlet SBL agent
     +- sbl_hmm: Hidden Markov Model Agent
