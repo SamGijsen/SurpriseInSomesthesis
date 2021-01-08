@@ -19,7 +19,7 @@ NeuralSurpriseInSomesthesis
 ├── models: The compared learning models
     +- cat_dir.py: Dirichlet-Categorical model
     +- hmm.py: Hidden Markov model
-├── sbl_agents: Different sequential bayesian learning agents
+├── sbl_agents: Sequential bayesian learning agents
     +- sbl_cat_dir: Categorical-Dirichlet SBL agent
     +- sbl_hmm: Hidden Markov Model Agent
     ├── utils: Helper files
