@@ -1,4 +1,4 @@
-# Neural Surprise In Somesthesis
+# Surprise In Somesthesis
 
 ### Code accompanying the paper 'Neural surprise in somatosensory Bayesian learning'
 
