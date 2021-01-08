@@ -1,8 +1,8 @@
 # Neural Surprise In Somesthesis
 
-## Code accompanying the paper 'Neural surprise in somatosensory Bayesian learning'
+### Code accompanying the paper 'Neural surprise in somatosensory Bayesian learning'
 
-## Authors: Sam Gijsen*, Miro Grundei*, Robert Tjarko Lange, Dirk Ostwald, Felix Blankenburg
+### Authors: Sam Gijsen*, Miro Grundei*, Robert Tjarko Lange, Dirk Ostwald, Felix Blankenburg
 
 ### * Equal contribution
 
